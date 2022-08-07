@@ -49,6 +49,7 @@ The hands on project on Linear Regression with NumPy and Python is divided into 
 
 ### Task 6: Visualizing the Cost Function $J(\theta)$
 - To better understand the cost function $J(\theta)$, we will plot the cost over a 2-dimensional grid of $\theta_0$ and $\theta_1$ values.
+  ![Graph](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/IynDYtiURWupw2LYlBVrfA_e45dd8bd7d5678f05b5798fa553d694f_Screenshot-from-2020-02-27-21-48-00.png?expiry=1660003200000&hmac=hrwiMCk6-AUTxUgU4gnWodcJ_jOuvVSUffUyAAcDDPM)
 - The purpose of this graph is to show you how $J(\theta)$ varies with changes in $\theta_0$ and $\theta_1$. 
 - We can see that the cost function $J(\theta)$ is bowl-shaped and has a global minimum. 
 
