@@ -56,10 +56,10 @@ The hands on project on Linear Regression with NumPy and Python is divided into 
 ### Task 7: Plotting the Convergence
 - Let’s plot how the cost function varies with the number of iterations. 
 - When we ran gradient descent previously, it returns the history of $J(\theta)$ values in a vector "costs". 
-- We will now plot the J values against the number of iterations. 
+- We will now plot the $J$ values against the number of iterations. 
 
 ### Task 8: Training Data with Univariate Linear Regression Fit
 - Now that we have correctly implemented and run gradient descent and arrived at the final parameters of our model, we can use these parameters to plot the linear fit. 
 
 ### Task 9: Inference using the optimized $\theta$ values
-- In this final task, let’s use our final values for $\theta$ to make predictions on profits in cities of 35,000 and 70,000 people. 
+- In this final task, let’s use our final values for $\theta$ to make predictions on profits in cities of $35,000$ and $70,000$ people. 
