@@ -24,11 +24,11 @@ The hands on project on Linear Regression with NumPy and Python is divided into 
 - Introduction to the data set and the problem overview.
 - See a demo of the final product you will build by the end of this project.
 - Introduction to the Rhyme interface.
-- Import essential modules and helper functions from NumPy and Matplotlib.
+- Import essential modules and helper functions from [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/).
 
 ### Task 2: Load the Data and Libraries
-- Load the dataset using pandas.
-- Explore the pandas dataframe using the head() and info() functions.
+- Load the dataset using [pandas](https://pandas.pydata.org/).
+- Explore the pandas dataframe using the `head()` and `info()` functions.
 
 ### Task 3: Visualize the Data
 - Before starting on any task, it is often useful to understand the data by visualizing it. 
